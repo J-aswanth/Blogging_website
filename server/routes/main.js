@@ -185,6 +185,9 @@ router.get('/about',(req,res)=>{
     res.render('about', {currentRoute: '/about'});
 });
 
+router.get('/contact',(req,res)=>{
+    res.render('contact', {currentRoute: '/contact'});
+});
 
 export default router;
 
