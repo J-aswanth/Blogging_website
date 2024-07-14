@@ -6,7 +6,7 @@ A blog web application built using Node.js, Express.js, and MongoDB. Users can c
 
 ## Technologies Used
 
- * Node.js with Expressjs
+ * Node.js with Express.js
  * MongoDB
  
 ## Installation
